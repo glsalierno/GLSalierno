@@ -1,6 +1,6 @@
 # 👨‍🔬 Gabriel Leonardo Salierno
 
-My research program is dedicated to advancing sustainability through the integration of high-performance science and technological development, with a particular focus on the intersection of chemical engineering, green chemistry, and computational modeling. I investigate industrial transport phenomena, manage and interpret large experimental datasets, and lead pilot-scale implementations of heterogeneous catalytic processes. My long-term objective is to generate fundamental knowledge that enables the design of greener, safer, and more efficient chemical technologies.
+My research is dedicated to advancing sustainability through the integration of high-performance science and technological development, with a particular focus on the intersection of chemical engineering, green chemistry, and computational modeling. I investigate industrial transport phenomena, manage and interpret large experimental datasets, and lead pilot-scale implementations of heterogeneous catalytic processes. My long-term objective is to generate fundamental knowledge that enables the design of greener, safer, and more efficient chemical technologies.
 
 ## 🔬 Research Interests
 
