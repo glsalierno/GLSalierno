@@ -21,7 +21,7 @@ A Python tool for retrieving standardized chemical property data from CAS number
 
 **📝 How to cite:**  
 If you use this tool in your research, please cite the DOI-archived version:  
-Salierno, G. L. (2026). cas-to-chem-data: A tool for retrieving chemical data from CAS numbers (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14636704
+Salierno, G. L. (2026). cas-to-chem-data: A tool for retrieving chemical data from CAS numbers (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475382
 
 ---
 
@@ -30,7 +30,7 @@ Semi-empirical models for estimating combustion properties of novel chemical com
 
 **📝 How to cite:**  
 If you use this tool in your research, please cite the DOI-archived version:  
-Salierno, G. L. (2026). askcos-combustion-estimator: Semi-empirical combustion property estimation (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14636703
+Salierno, G. L. (2026). askcos-combustion-estimator: Semi-empirical combustion property estimation (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475328
 
 ---
 
@@ -39,7 +39,7 @@ Tool for converting chemical names to HSPiP-compatible data formats for Hansen S
 
 **📝 How to cite:**  
 If you use this tool in your research, please cite the DOI-archived version:  
-Salierno, G. L. (2026). name-to-HSPiP_data: Chemical name to HSPiP data converter (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14636705
+Salierno, G. L. (2026). name-to-HSPiP_data: Chemical name to HSPiP data converter (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475328
 
 ---
 
@@ -48,7 +48,7 @@ Automated retrieval of flashpoint data from PubChem for safety assessment and gr
 
 **📝 How to cite:**  
 If you use this tool in your research, please cite the DOI-archived version:  
-Salierno, G. L. (2026). pubchem-flashpoint-retriever: PubChem flashpoint data extraction tool (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14636706
+Salierno, G. L. (2026). pubchem-flashpoint-retriever: PubChem flashpoint data extraction tool (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475367
 
 ---
 
@@ -57,7 +57,7 @@ Converts CAS numbers to HSPiP-ready data for rapid solubility parameter analysis
 
 **📝 How to cite:**  
 If you use this tool in your research, please cite the DOI-archived version:  
-Salierno, G. L. (2026). cas-to-HSPiP_data: CAS number to HSPiP data converter (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14636707
+Salierno, G. L. (2026). cas-to-HSPiP_data: CAS number to HSPiP data converter (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475399
 
 ---
 
