@@ -39,7 +39,7 @@ Tool for converting chemical names to HSPiP-compatible data formats for Hansen S
 
 **📝 How to cite:**  
 If you use this tool in your research, please cite the DOI-archived version:  
-Salierno, G. L. (2026). name-to-HSPiP_data: Chemical name to HSPiP data converter (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475328
+Salierno, G. L. (2026). name-to-HSPiP_data: Chemical name to HSPiP data converter (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475390
 
 ---
 
