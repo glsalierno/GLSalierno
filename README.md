@@ -1,70 +1,38 @@
-# 👨‍🔬 Gabriel Leonardo Salierno
+# Gabriel Leonardo Salierno
 
-My research is dedicated to advancing sustainability through the integration of high-performance science and technological development, with a particular focus on the intersection of chemical engineering, green chemistry, and computational modeling. I investigate industrial transport phenomena, manage and interpret large experimental datasets, and lead pilot-scale implementations of heterogeneous catalytic processes. My long-term objective is to generate fundamental knowledge that enables the design of greener, safer, and more efficient chemical technologies.
+I build research tools for chemical hazard screening, FTIR interpretation, and solvent selection at the Toxics Use Reduction Institute (TURI), UMass Lowell. My work brings together green chemistry, chemical engineering, and computational modeling.
 
-## 🔬 Research Interests
+## Start with what you want to do
 
-- Sustainable Chemistry
-- Semi-empirical Modeling
-- Green Engineering
-- Chemical Hazard Assessment
-- Transport Phenomena
-- Heterogeneous Catalysis
-- Chemometrics
-- Clean Energy Technology
-- Radioactive Particle Tracking (RPT)
+| I want to… | Start here |
+| --- | --- |
+| Look up a chemical's identifiers, properties, and reported hazards | [Quick Hazard Assessment](https://github.com/glsalierno/quick-hazard-assessment-app). [Open the hosted app](https://quick-hazard-assessment-app.streamlit.app) (Streamlit sign-in may be required) and try acetone, CAS `67-64-1`. This is a screening tool, not a compliance determination. |
+| Interpret an FTIR spectrum and see the evidence behind an assignment | [SpectraReason](https://github.com/glsalierno/SpectraReason). [Download the example HTML report](https://github.com/glsalierno/SpectraReason/blob/main/reports/reference_snapshots/front/REPORT.html) and open it in a browser, or [generate your first report](https://github.com/glsalierno/SpectraReason#quickstart-with-ml). |
+| Prepare inputs for Hansen solubility parameter calculations | Start with [CAS numbers](https://github.com/glsalierno/cas-to-HSPiP_data) or [chemical names](https://github.com/glsalierno/name-to-HSPiP_data). The workflows use PubChem and require HSPiP to calculate the parameters. |
 
-## 🧪 Featured Research Tools
+## More research utilities
 
-### cas-to-chem-data
-A Python tool for retrieving standardized chemical property data from CAS numbers, designed for sustainable chemistry workflows.
+- [CAS-to-chemical-data](https://github.com/glsalierno/cas-to-chem-data): Look up chemical identifiers and properties from PubChem.
+- [PubChem flash-point retriever](https://github.com/glsalierno/pubchem-flashpoint-retriever): Retrieve reported flash points by CAS number.
+- [ASKCOS combustion estimator](https://github.com/glsalierno/askcos-combustion-estimator): Estimate combustion properties for research and screening.
 
-**📝 How to cite:**  
-If you use this tool in your research, please cite the DOI-archived version:  
-Salierno, G. L. (2026). cas-to-chem-data: A tool for retrieving chemical data from CAS numbers (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475382
+## Reuse and citation
 
----
+Check the repository README for inputs, dependencies, and scope. If you use a tool in research, cite the version you ran: use the versioned Zenodo record where available, or record the release tag and commit. Consult the repository's license before redistributing code or data.
 
-### askcos-combustion-estimator
-Semi-empirical models for estimating combustion properties of novel chemical compounds, supporting the development of sustainable alternatives.
+<details>
+<summary>Previously listed software citations</summary>
 
-**📝 How to cite:**  
-If you use this tool in your research, please cite the DOI-archived version:  
-Salierno, G. L. (2026). askcos-combustion-estimator: Semi-empirical combustion property estimation (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475328
+- Salierno, G. L. (2026). cas-to-chem-data: A tool for retrieving chemical data from CAS numbers (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475382
+- Salierno, G. L. (2026). askcos-combustion-estimator: Semi-empirical combustion property estimation (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475328
+- Salierno, G. L. (2026). name-to-HSPiP_data: Chemical name to HSPiP data converter (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475390
+- Salierno, G. L. (2026). pubchem-flashpoint-retriever: PubChem flashpoint data extraction tool (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475367
+- Salierno, G. L. (2026). cas-to-HSPiP_data: CAS number to HSPiP data converter (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475399
 
----
+</details>
 
-### name-to-HSPiP_data
-Tool for converting chemical names to HSPiP-compatible data formats for Hansen Solubility Parameter analysis.
+## Research and contact
 
-**📝 How to cite:**  
-If you use this tool in your research, please cite the DOI-archived version:  
-Salierno, G. L. (2026). name-to-HSPiP_data: Chemical name to HSPiP data converter (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475390
+My broader interests include transport phenomena, chemometrics, heterogeneous catalysis, and safer chemical technologies. If you're testing a tool, a small public example and the release or commit help me reproduce what you see.
 
----
-
-### pubchem-flashpoint-retriever
-Automated retrieval of flashpoint data from PubChem for safety assessment and green chemistry screening.
-
-**📝 How to cite:**  
-If you use this tool in your research, please cite the DOI-archived version:  
-Salierno, G. L. (2026). pubchem-flashpoint-retriever: PubChem flashpoint data extraction tool (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475367
-
----
-
-### cas-to-HSPiP_data
-Converts CAS numbers to HSPiP-ready data for rapid solubility parameter analysis in sustainable solvent selection.
-
-**📝 How to cite:**  
-If you use this tool in your research, please cite the DOI-archived version:  
-Salierno, G. L. (2026). cas-to-HSPiP_data: CAS number to HSPiP data converter (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18475399
-
----
-
-> **📌 Note on citations:** All my research tools are archived on Zenodo with persistent DOIs. Please cite the DOI-archived versions to ensure long-term accessibility and proper academic credit. Check each repository for the most current citation format.
-
-## 📫 Get in Touch
-
-- **ORCID:** [0000-0002-2903-0575](https://orcid.org/0000-0002-2903-0575)
-- **Google Scholar:** [gSArq_8AAAAJ](https://scholar.google.com/citations?user=gSArq_8AAAAJ&hl=es)
-- **ResearchGate:** [Gabriel Leonardo Salierno](https://www.researchgate.net/profile/Gabriel-Salierno)
+[ORCID](https://orcid.org/0000-0002-2903-0575) · [Google Scholar](https://scholar.google.com/citations?user=gSArq_8AAAAJ&hl=es) · [ResearchGate](https://www.researchgate.net/profile/Gabriel-Salierno)
