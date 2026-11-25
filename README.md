@@ -12,7 +12,7 @@ I build research tools for chemical hazard screening, FTIR interpretation, and s
 
 ## More research utilities
 
-- [TURI Safe Chem DB](https://github.com/glsalierno/turi-safe-chem-db): Screen chemical hazards and find data for comparing safer solvents, including automatic P2OASys screening.
+- [TURI Safe Chem DB](https://github.com/glsalierno/turi-safe-chem-db): Screen chemical hazards and find data for comparing safer solvents, including automatic TURI hazard score screening (six science categories, 0-10, overall = max).
 - [Live Solvent Assess](https://github.com/glsalierno/live-solvent-assess): Evaluate solvent safety and performance from a CAS number.
 - [eppur-fluctuat](https://github.com/glsalierno/eppur-fluctuat): Research workflows for protein–ligand docking and QSAR.
 - [PubChem toxicology retriever](https://github.com/glsalierno/pubchem-toxinfo-cas-retriever): Retrieve reported toxicology asynchronously by CAS number.
